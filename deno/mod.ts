@@ -1,4 +1,4 @@
-import { blue, cyan, green, magenta, red, yellow } from "https://deno.land/std@0.112.0/fmt/colors.ts";
+import { blue, cyan, green, magenta, red, yellow } from "https://deno.land/std@0.220.1/fmt/colors.ts";
 
 function prefix(text: string) {
   return `[${text.toUpperCase()}]`;
